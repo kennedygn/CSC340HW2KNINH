@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.csc340hw2.csc340hw2.Csc340hw2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.712 s - in com.csc340hw2.csc340hw2.Csc340hw2ApplicationTests
